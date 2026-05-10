@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-## I'm Taha,
-I'm a software engineering student, specializing in AI, Networks, and Data Science.
+I'm Taha,
+a software engineering student, specializing in AI, Networks, and Data Science.
 
 I'm genuinely interested in AI — not as a buzzword, but as a serious engineering discipline. I want to build systems that are technically rigorous and actually useful: tools that automate what's tedious, augment what's complex, and tackle problems that matter across industries and domains.
 
